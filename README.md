@@ -1,80 +1,54 @@
 
-# Projeto Site Chess
+# Projetc Site Chess
 <br />
 <p align="center">
   <a href="https://github.com/alexanderritik/Best-README-Template">
     <img src="logo.jpg" alt="Logo" width="80" height="80">
   </a>
+  <h3>
   <p align="center">
-    One to two paragraph statement about your product and what it does.
-  </p>
-</p>
 
+This site shows a list of chess grandmasters and chess problems  </p>
+</p>
+</h3>
 <p align="center">
-    <img src="logo.jpg" alt="Logo" width="80" height="80">
-    <img src="logo.jpg" alt="Logo" width="80" height="80">
+    <img src="logo.jpg" alt="Logo" width="1200" height="850">
 </p>
 
-## Features
-
-- [x] Feature 1
-- [x] Feature 2
-- [x] Feature 3
-- [x] Feature 4
-- [x] Feature 5
 
 ## Requirements
 
-- iOS 8.0+
-- Xcode 7.3
+Any  internet browser 
+
 
 ## Installation
 
-#### CocoaPods
-You can use [CocoaPods](http://cocoapods.org/) to install `YourLibrary` by adding it to your `Podfile`:
 
-```ruby
-platform :ios, '8.0'
-use_frameworks!
-pod 'YourLibrary'
-```
+No installation required
+ Just right click and open with a browser
 
-To get the full benefits import `YourLibrary` wherever you import UIKit
 
-``` swift
-import UIKit
-import YourLibrary
-```
-#### Carthage
-Create a `Cartfile` that lists the framework and run `carthage update`. Follow the [instructions](https://github.com/Carthage/Carthage#if-youre-building-for-ios) to add `$(SRCROOT)/Carthage/Build/iOS/YourLibrary.framework` to an iOS project.
+## Download
 
+Download at
+``
+https://github.com/Alexande-Alves/Projeto-site
+
+or download via ssh key
 ```
-github "yourUsername/yourlibrary"
+git@github.com:Alexande-Alves/Projeto-site.git
 ```
-#### Manually
-1. Download and drop ```YourLibrary.swift``` in your project.  
-2. Congratulations!  
 
 ## Usage example
 
-```swift
-import EZSwiftExtensions
-ez.detectScreenShot { () -> () in
-    print("User took a screen shot")
-}
-```
+The Navigation of the site is done through tabs that, when clicked, give access to other pages on the site.
+  There is a problem section and 2 lists of male and female world champions and a contact form if you would like further information.
 
-## Contribute
-
-We would love you for the contribution to **YourLibraryName**, check the ``LICENSE`` file for more info.
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/Alexande-Alves](https://github.com/dbader/)
 
 [swift-image]:https://img.shields.io/badge/swift-3.0-orange.svg
 [swift-url]: https://swift.org/
