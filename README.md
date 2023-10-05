@@ -1,5 +1,5 @@
 
-# Projetc Site Chess
+# Project Site Chess
 <br />
 <p align="center">
   <a href="https://github.com/alexanderritik/Best-README-Template">
