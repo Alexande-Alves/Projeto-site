@@ -9,7 +9,7 @@
   <p align="center">
 
 
-This is a simple website project; it showcases a brief history of chess, its basic rules, the greatest players in history, and includes a small section of chess problems.</p>
+This is a simple website project; it showcases a brief history of chess, basic rules, the greatest players of history, and includes a small section of chess problems.</p>
 </h3>
 <p align="center">
     <img src="chess1.png" alt="Logo" width="1050" height="850">
