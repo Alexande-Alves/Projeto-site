@@ -15,7 +15,10 @@ This project of site shows a little about the history of chess, its basic rules,
 <p align="center">
     <img src="chess1.png" alt="Logo" width="1050" height="850">
 </p>
-
+<br>
+<p align="center">
+    <img src="image.png" alt="Logo" width="1050" height="850">
+</p>
 ## Tools and languages ​​used
 
 HTML5<br>
