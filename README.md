@@ -54,7 +54,7 @@ git@github.com:Alexande-Alves/Projeto-site.git
 ## Usage example
 
 The Navigation of the site is done through tabs that, when clicked, give access to other pages on the site.
-  There is a problem section and 2 lists of male and female world champions and a contact form if you would like further information.
+  There are a problem's section and two lists of world champions and a contact form  for more informations.
 
 
 ## Meta
