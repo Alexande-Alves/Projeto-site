@@ -16,6 +16,11 @@ This site shows a little about the history of chess, its basic rules, greatest p
     <img src="chess1.png" alt="Logo" width="1050" height="850">
 </p>
 
+## Tools and languages ​​used
+
+HTML5<br>
+Css3<br>
+Ide Visual Code
 
 ## Requirements
 
