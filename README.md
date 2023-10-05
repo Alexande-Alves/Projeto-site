@@ -9,12 +9,15 @@
   <p align="center">
 
 
-This project of site shows a little about the history of chess, its basic rules, greatest players in history and has a small section of chess problems </p>
-</p>
+This is a simple website project; it showcases a brief history of chess, its basic rules, the greatest players in history, and includes a small section of chess problems.</p>
 </h3>
 <p align="center">
     <img src="chess1.png" alt="Logo" width="1050" height="850">
 </p>
+<br>
+<p>
+There are 5 tabs for navigation in the website project
+  </p>
 <br>
 <p align="center">
     <img src="image.png" alt="Logo" width="1050" height="850">
@@ -30,14 +33,13 @@ Ide Visual Code
 
 ## Requirements
 
-Any  internet browser 
-
-
+Works on any browser and doesn't need internet access
 ## Installation
 
 
 No installation required
- Just right click and open with a browser
+<br>
+ Using the file explorer, open the folder and right-click on the index.html file. Choose your preferred browser to open the file
 
 
 ## Download
@@ -45,7 +47,7 @@ No installation required
 Download at
 ``
 https://github.com/Alexande-Alves/Projeto-site
-
+<br>
 or download via ssh key
 ```
 git@github.com:Alexande-Alves/Projeto-site.git
@@ -53,9 +55,7 @@ git@github.com:Alexande-Alves/Projeto-site.git
 
 ## Usage example
 
-The Navigation of the site is done through tabs that, when clicked, give access to other pages on the site.
-  There are a problem's section and two lists of world champions and a contact form  for more informations.
-
+   The navigation of the site is done through tabs that, when clicked, provide access to other pages on the site. There is a section for problems, two lists of world champions of the world, and a contact form for more information.
 
 ## Meta
 
