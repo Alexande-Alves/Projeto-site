@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/alexanderritik/Best-README-Template">
-    <img src="logo.jpg" alt="Logo" width="80" height="80">
+    <img src="logo.jpg" alt="Logo" width="50" height="50">
   </a>
   <h3>
   <p align="center">
