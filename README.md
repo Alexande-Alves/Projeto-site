@@ -8,11 +8,12 @@
   <h3>
   <p align="center">
 
-This site shows a list of chess grandmasters and chess problems  </p>
+
+This site shows a little about the history of chess, its basic rules, greatest players in history and has a small section of chess problems </p>
 </p>
 </h3>
 <p align="center">
-    <img src="logo.jpg" alt="Logo" width="1200" height="850">
+    <img src="chess1.png" alt="Logo" width="1050" height="850">
 </p>
 
 
