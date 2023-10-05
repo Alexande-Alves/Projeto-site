@@ -33,7 +33,7 @@ Ide Visual Code
 
 ## Requirements
 
-Works on any browser and doesn't need internet access
+It works on any browser and doesn't need internet access
 ## Installation
 
 
