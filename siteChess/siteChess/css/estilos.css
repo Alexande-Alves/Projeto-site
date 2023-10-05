@@ -1,0 +1,283 @@
+﻿/* Definição das regras de formatação do projeto */
+*{
+	margin: 0px; /* define a distância da margem do objeto */
+	padding: 0px; /*Define o espaçamento interno do objeto */
+}
+body{
+	background-color:#000000; /*Altera a cor do fundo*/
+    color:#000000; /*define a cor do texto padrão*/
+}
+header{
+	width: 100%; /* determina a largura do objeto */
+	height: 90px; /* determina a altura do objeto*/
+	background-color: #000/* determina a cor do plano de fundo*/
+	
+	margin: auto; /*essa definição centraliza o objeto na tela*/
+}
+nav{
+	width: 360px;
+	height: 40px;
+	background-color: #000;
+	color: #fff;
+	text-align: center; /* Centraliza o conteúdo do objeto*/
+	margin:  0 auto;
+	
+}
+section{
+	
+	width: 1024px;
+	height: 202px;
+	margin-right:2px;
+	margin: 0 auto;
+}
+
+footer{
+	width: 1024px;
+	height: 35px;
+	margin: 0 auto;
+	background-color: #7a2f13	;
+	color:#cfcfcf;
+	margin-top: 15px;
+}
+
+
+/* declaraçaõ de identificadores */
+#banner{
+	height: 300px;
+	margin-bottom: 15px; /* margem para os objetos abaixo na estrutura */
+	
+	
+}
+
+	
+
+#inf{
+	text-indent: 2em;
+	text-align: justify;
+	height: 170px;
+	background-color: #006400;
+	font-size: 1em;
+	color: Black;
+	clear: both; /* elimina herança de float usada anteriormente*/
+	margin-bottom: 12px;
+	
+}
+
+table{
+		   
+			border: 1px solid white;
+		    font-family: arial, helvetica, sans-serif;
+			margin: 0 auto;
+		}
+		td{
+		     border: 1px solid white;
+			 width: 200px;
+			 padding-left: 6px;
+		}
+		th{
+		     border: 1px solid white;
+			 width: 200px;
+			  padding-left: 6px;
+		}
+		tr{
+		    height: 40px;
+			 padding-left: 6px;
+		}
+		
+
+
+
+#menu, #menu * {
+	margin:0;
+	padding:0;
+}
+#menu {
+    width: 100%;
+	list-style: none;
+	float:left;
+    font: bold 0.8em Arial, Verdana, helvetica, sans-serif;
+	background: #000000;
+	line-height: 40px;
+	padding-right: 2em;
+}
+#menu li {
+	float: left;
+} 
+
+#menu li a {
+   
+	display: block; /* cria uma área lógica envolvendo o item do menu */
+	text-decoration: none;
+	margin-right: 2px;
+	color: #000;
+	padding: 0.25em 0.5 em 0.25em 0.75em;
+	border-left: 1em solid #FF4500;
+	background: #D2691E;
+	
+	  
+	}
+	#menu li a:visited {
+		color: #000;
+	}
+	#menu li a:hover{
+	    color: #2eacd5;
+		background: #fff;
+		border-left: 1em solid #a2c7da;
+	}
+	
+	
+	
+	
+/* home */
+
+.coluna{
+	width: 325px;
+	height: 320px;
+	background-color: #000000;
+	float: left; /* posiciona o objeto a partir de sua borda*/
+	padding-left: 2px; /* define o espaçamento entre a borda do objeto e a esquerda do objeto e e conteúdo*/
+	
+	padding-top: 5px;
+	margin-bottom: 5px;
+	border:4px solid #999;
+	 
+	
+}
+.espaco{
+	margin-bottom: 4px;
+	margin-left: 4px; /*define a medida da margem em posição especifica do texto*/
+	margin-right: 4px; /*define a medida da margem em posição especifica do texto*/
+	
+}
+
+.sectionSize{
+	width: 1020px;
+	height:675px;
+	border:4px solid #999;
+	padding-left: 5px;
+	margin: 0  auto;
+	padding-top: 5px;
+	margin-bottom:5px;
+	
+}
+.sectionSize2{
+	width: 1020px;
+	height:350px;
+	border:4px solid #999;
+	padding-left: 5px;
+	margin: 0  auto;
+	padding-top: 5px;
+	margin-bottom: 12px;
+	}
+	
+	
+	.sectionSize3{
+	width: 1002px;
+	height:333px;
+	border:4px solid #999;
+	padding-left: 5px;
+	margin: 0  auto;
+	padding-top: 5px;
+	margin-bottom: 5px;
+	float: left;
+	color:white;
+	}
+	
+	.sectionSize4{
+	width: 1020px;
+	height:50px;
+	
+	}
+	
+	.sectionSize5{
+	width: 600px;
+	height:300px;
+	
+	}
+.foto{
+border:4px solid #999;	
+}
+.foto2{
+border:4px solid #999;	
+}
+.photoSize{
+	width: 310px;
+	height:200px;
+	margin-left: 2px;
+    border:4px solid #999
+	
+}
+.photoSize2{
+	width: 270px;
+	height:270px;
+    border:4px solid #999;
+	margin-left: 18px;
+}
+
+
+.tit{
+	color: white;
+	font-size: 75px;
+	text-align: center;
+}
+.tit2{
+	
+	font-size: 30px;
+	text-align: center;
+	color: white;
+}
+
+
+.legend{
+	text-align: center;
+	color: white;
+	font-size: 23px;
+	
+}
+.text{
+	font-size: 20px;
+	text-indent: 1em;
+	
+}
+	
+	.body3{
+		
+		color:white;
+		 
+		
+	}
+	
+	.form1{
+		
+		
+		color:white;
+		margin: 0 auto;
+		height:600px;
+		
+	}
+	
+	.form2{
+		
+		
+		color:white;
+		margin: 0 auto;
+		height:50px;
+		
+	}
+	
+	.form3{
+		
+		
+		color:white;
+		margin: 0 auto;
+		height:300px;
+		
+	}
+	.sectF{
+		padding-left: 20px;
+		padding-top:50px;
+		width: 400px;
+		height:700px;
+		margin: 0 auto;
+		
+	}
