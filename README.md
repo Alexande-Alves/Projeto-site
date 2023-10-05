@@ -9,7 +9,7 @@
   <p align="center">
 
 
-This site shows a little about the history of chess, its basic rules, greatest players in history and has a small section of chess problems </p>
+This project of site shows a little about the history of chess, its basic rules, greatest players in history and has a small section of chess problems </p>
 </p>
 </h3>
 <p align="center">
